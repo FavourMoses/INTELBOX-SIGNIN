@@ -1,0 +1,193 @@
+.all{
+width: 1278px;
+height: 612px;
+top: 540px;
+left: 2485px;
+background: #FFE5E6;
+}
+.supplies{
+    background-color: #FFFFFF;
+    width:1278px;
+    height: 40px;
+    padding-left: 50px;
+    padding-top: 10px;
+    margin-left: -28px;
+    font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+}
+.heading2{
+    position: absolute;
+    top: 0;
+    right: 23px;
+    margin: 10px;
+opacity: 0.9px;
+font-family: Montserrat;
+font-size: 13px;
+font-weight: 600;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: right;
+}
+.user{
+    width: 50px;
+height: 60px;
+margin-left: 1400px;
+position:relative;
+}
+.box{
+    background: #800004;
+    width: 862px;
+height: 427px;
+top: 77px;
+left: 307px;
+border-radius: 2px;
+margin-left: 208px;
+margin-top: 27px;  
+}
+.name{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 32px;
+    padding-top: 20px;
+}
+.namebox{
+    width: 300px;
+height: 50px;
+top: 125px;
+left: 339px;
+border-radius: 4px;
+background-color: #FEFEFE;
+margin-top: 8px;
+margin-left: 32px;
+}
+.bankname{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 32px;
+    margin-top: 16px;  
+}
+.banknamebox{
+    width: 300px;
+    height: 50px;
+    top: 125px;
+    left: 339px;
+    border-radius: 4px;
+    background-color: #FEFEFE;
+    margin-top: 8px;
+    margin-left: 32px;   
+}
+.item{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 32px;
+    margin-top: 16px;   
+}
+.itembox{
+    width: 300px;
+    height: 50px;
+    top: 125px;
+    left: 339px;
+    border-radius: 4px;
+    background-color: #FEFEFE;
+    margin-top: 8px;
+    margin-left: 32px;     
+}
+.phone{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 525px;
+    margin-top: -290px;   
+}
+.phonebox{
+    width: 300px;
+    height: 50px;
+    top: 125px;
+    left: 339px;
+    border-radius: 4px;
+    background-color: #FEFEFE;
+    margin-left: 525px;    
+    margin-top: 8px;
+}
+.acct{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 525px;
+    margin-top: 16px;  
+}
+.acctbox{
+    width: 300px;
+    height: 50px;
+    top: 125px;
+    left: 339px;
+    border-radius: 4px;
+    background-color: #FEFEFE;
+    margin-top: 8px; 
+    margin-left: 525px;   
+}
+.purpose{
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FEFEFE;
+    margin-left: 525px;
+    margin-top: 16px;   
+}
+.purposebox{
+    width: 300px;
+    height: 122px;
+    top: 125px;
+    left: 339px;
+    border-radius: 4px;
+    background-color: #FEFEFE;
+    margin-top: -10px; 
+    margin-left: 525px;  
+}
+.submit{
+    width: 140px;
+height: 40px;
+bottom: 200px;
+left: 990px;
+border-radius: 4px;
+background-color: #191717;
+color:#FFFFFF;
+margin-top:15px; 
+margin-left: 686px; 
+font-family: Montserrat;
+}
+.back{
+    position: absolute;
+    margin-top: -375px;
+    margin-left:-1010px;
+}

@@ -1,0 +1,100 @@
+.view{
+    width: 70px;
+    height: 30px;
+    top: 700px;
+    left: 1136px;
+    border-radius: 6px;
+    box-shadow: 0px 4px 8px 0px #00000073;
+    font-family:'Montserrat';
+    position:absolute;
+    font-weight: bold;
+    opacity: 0.9;
+}
+.note1{
+    width: 150px;
+height: 34px;
+position: absolute;
+    top: 655px;
+    left: 1136px;
+font-family:'Montserrat';
+font-size: 10px;
+font-weight: bold;
+Line-height:11.29px;
+letter-spacing: 0em;
+text-align: center;
+opacity: 0.8px;
+background-color:#ffffff;
+color: black;
+box-shadow: 0px 1px 3px 0px #00000033 inset;
+
+box-shadow: 0px 2px 4px 0px #00000080;
+
+border-radius:10px;
+border: 0px;
+}
+.note2{
+    width: 150px;
+    height: 34px;
+    position: absolute;
+        top: 615px;
+        left: 1136px;
+    font-family:'Montserrat';
+    font-size: 10px;
+    font-weight: bold;
+    Line-height:11.29px;
+    letter-spacing: 0em;
+    text-align: center;
+    opacity: 0.8px;
+    background-color:#ffffff;
+    color: black;
+    box-shadow: 0px 1px 3px 0px #00000033 inset;
+    
+    box-shadow: 0px 2px 4px 0px #00000080;
+    
+    border-radius:10px;
+    border: 0px;   
+}
+.note3{
+    width: 150px;
+    height: 34px;
+    position: absolute;
+        top: 575px;
+        left: 1136px;
+    font-family:'Montserrat';
+    font-size: 10px;
+    font-weight: bold;
+    Line-height:11.29px;
+    letter-spacing: 0em;
+    text-align: center;
+    opacity: 0.8px;
+    background-color:#ffffff;
+    color: black;
+    box-shadow: 0px 1px 3px 0px #00000033 inset;
+    
+    box-shadow: 0px 2px 4px 0px #00000080;
+    
+    border-radius:10px;
+    border: 0px;   
+}
+.note4{
+    width: 150px;
+    height: 34px;
+    position: absolute;
+        top: 535px;
+        left: 1136px;
+    font-family:'Montserrat';
+    font-size: 10px;
+    font-weight: bold;
+    Line-height:11.29px;
+    letter-spacing: 0em;
+    text-align: center;
+    opacity: 0.8px;
+    background-color:#ffffff;
+    color: black;
+    box-shadow: 0px 1px 3px 0px #00000033 inset;
+    
+    box-shadow: 0px 2px 4px 0px #00000080;
+    
+    border-radius:10px;
+    border: 0px;     
+}
